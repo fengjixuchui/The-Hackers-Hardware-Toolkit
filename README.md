@@ -1,14 +1,7 @@
-<h1 align="center">
- 	<br>
- 	  <img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-  <br>
-</h1>
-
-
 # The Hacker's Hardware Toolkit  ![Awesome community](https://img.shields.io/badge/awesome-hacking-green.svg) ![Awesome Hacking](https://img.shields.io/badge/hardware-toolkit-red.svg) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 <h1 align="center">
  	<br>
-    <img width="200" src="./cover.png" alt="cover">
+    <img src="./cover.png" alt="cover">
   <br>
 </h1>
 
@@ -64,7 +57,8 @@ Follow me on GitHub or on your favorite social media to get daily updates on int
 
  - Twitter: [@yadox](https://twitter.com/yadox)
  - Linkedin: [Yago Hansen](https://www.linkedin.com/in/yadox/)
-
+ - Personal Web: [Yago Hansen](https://yagohansen.com/)
+ 
 ### Want to get it paperback?
 
 I have also published this book in Amazon, because many people asked about getting a cheap paperback format. I kept the same policy to distribute it in a non-profit mode, so I kept the price as low as posible. It is available through all the Amazon international sites for many countries. If it's not available for shipping to your country, just feel free to download and print it using your own printing service. Book ISBN-10: 1099209463.
